@@ -1,0 +1,81 @@
+system,user,student_id,question_ids
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 3222:
+- Question 18288:
+- Question 26345:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",12468,"[3222, 18288, 26345]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 3561:
+- Question 6664:
+- Question 4173:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",43221,"[3561, 6664, 4173]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 16765:
+- Question 414:
+- Question 22923:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",44278,"[16765, 414, 22923]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 11090:
+- Question 25364:
+- Question 14461:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",55528,"[11090, 25364, 14461]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 22720:
+- Question 13143:
+- Question 19804:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",57211,"[22720, 13143, 19804]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 854:
+- Question 1602:
+- Question 25084:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",65561,"[854, 1602, 25084]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 10020:
+- Question 4770:
+- Question 16990:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",71595,"[10020, 4770, 16990]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 13503:
+- Question 26754:
+- Question 6092:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",99429,"[13503, 26754, 6092]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 19541:
+- Question 19159:
+- Question 21189:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",100067,"[19541, 19159, 21189]"
+"The student demonstrates a strong understanding of basic arithmetic operations and pattern recognition.
+However, they struggle with multi-step problems and geometry-related questions.
+They are likely to succeed on straightforward procedural problems but may falter when required to apply concepts creatively or abstractly.","Based on this persona, predict whether the student will answer the following questions correctly:
+- Question 21861:
+- Question 7776:
+- Question 11103:
+
+Respond with 'Likely Correct' or 'Likely Incorrect' for each.",111423,"[21861, 7776, 11103]"
